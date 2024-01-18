@@ -6,22 +6,22 @@ The Tech News Aggregator is a web application built using React.js and Node.js t
 
 ## Features
 
-- **Search Functionality:** Users can search for specific news articles using keywords.
-- **Real-time Updates:** The website provides real-time updates, ensuring users stay informed about the latest tech news.
-- **Pagination:** Results are paginated, providing a seamless browsing experience.
-- **Mobile Responsive:** The user interface is designed to be responsive, ensuring a consistent experience across various devices.
-- **Error Handling:** Robust error handling to provide users with a smooth experience.
-
+- 🔍 **Search Functionality:** Users can search for specific news articles using keywords.
+- 🔄 **Real-time Updates:** The website provides real-time updates, ensuring users stay informed about the latest tech news.
+- 📖 **Pagination:** Results are paginated, providing a seamless browsing experience.
+- 📱 **Mobile Responsive:** The user interface is designed to be responsive, ensuring a consistent experience across various devices.
+- 🚀 **Error Handling:** Robust error handling to provide users with a smooth experience.
 
 ![Screenshot 2024-01-18 235824](https://github.com/ARO369/TechNews-website/assets/106620231/7910eff9-f80a-4f24-9582-80221b00c89c)
 ![Screenshot 2024-01-18 235945](https://github.com/ARO369/TechNews-website/assets/106620231/1ece32f5-646f-4f4b-85b7-13f79858a3da)
 
 ## Tech Stack
 
-- **Frontend:** React.js
-- **Backend:** Node.js
-- **API:** News API
-- **Version Control:** Git
+- 💻 **Frontend:** React.js
+- 🛠️ **Backend:** Node.js
+- 🌐 **API:** News API
+- 📡 **Version Control:** Git
+
 
 ## Getting Started
 
