@@ -12,6 +12,7 @@ function App() {
       <div className="container">
         <Pagination />
         <Stories />
+        <Pagination />
       </div>
     </>
   );
