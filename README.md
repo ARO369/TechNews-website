@@ -14,6 +14,7 @@ The Tech News Aggregator is a web application built using React.js and Node.js t
 
 ![Screenshot 2024-01-18 235824](https://github.com/ARO369/TechNews-website/assets/106620231/7910eff9-f80a-4f24-9582-80221b00c89c)
 ![Screenshot 2024-01-18 235945](https://github.com/ARO369/TechNews-website/assets/106620231/1ece32f5-646f-4f4b-85b7-13f79858a3da)
+![Untitled design (7)](https://github.com/ARO369/TechNews-website/assets/106620231/dc586072-6a45-434c-b990-119ff63579d1)
 
 ## Tech Stack
 
